@@ -6,6 +6,6 @@ But that's not all; significant upgrades are in the pipeline for all Ltd station
 You don't want to miss the next Ltd update.
 
 if you like my work support me or just say thank you 
-link [  ]
+link [ https://ko-fi.com/jimgordon1994 ]
 
 video link [ https://youtu.be/IicpM710LvI ]
