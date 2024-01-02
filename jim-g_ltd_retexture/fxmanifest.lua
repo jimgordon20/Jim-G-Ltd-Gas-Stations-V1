@@ -15,7 +15,7 @@
 
 fx_version 'adamant'
 
--- version 'v1.0'
+-- version 'v1.6'
 
 game 'gta5'
 
@@ -26,5 +26,3 @@ description 'Jim G Ltd Gas Stations'
 author 'jimgordontheoneandonly'
 
 --#################################################################--
-
-version '1.0'
